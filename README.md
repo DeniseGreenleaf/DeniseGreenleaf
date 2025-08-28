@@ -1,4 +1,5 @@
-![Green Banner](https://via.placeholder.com/1200x200/3DDC84/FFFFFF?text=Hi+I'm+Densie+👋)
+![Green Banner](https://via.placeholder.com/1200x200/003E00/FFFFFF?text=Hi+I'm+Densie+%F0%9F%91%8B)
+
 
 💻 Full-stack developer in training  
 🚀 Working with JavaScript, React, Java, Spring Boot & MySQL  
