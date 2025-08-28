@@ -1,4 +1,4 @@
-![Green Banner](https://via.placeholder.com/1200x200/003E00/FFFFFF?text=Hi+I'm+Densie+%F0%9F%91%8B)
+![Green Banner](greenleaf.jpg/1200x300/003E00/FFFFFF?text=Hi+I'm+Densie+%F0%9F%91%8B)
 
 
 💻 Full-stack developer in training  
