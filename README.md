@@ -8,7 +8,7 @@
 ---
 
 ### 🍃 About Me  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=3DDC84&width=600&lines=Full-stack+developer+in+training;Love+of+programming;Love+of+dogs)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=3DDC84&width=600&lines=Full-stack+developer+in+training;Love+of+programming;Love+dogs)
 
 ---
 
