@@ -23,10 +23,9 @@
 
 🧠 Currently Learning
 
-⚛️ React – building dynamic UIs with components, props & state
-🧪 JavaScript – working with APIs, DOM, events & animations
-🧱 Backend basics – Node.js & MySQL
-☕ Java & Spring Boot
+🧪 JavaScript – working with APIs, DOM, events & animations  
+🧱 Backend basics – Node.js & MySQL  
+☕ Java, Spring Boot & Spring security  
 
 ---
 
