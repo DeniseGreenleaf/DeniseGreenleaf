@@ -1,4 +1,4 @@
-# Hi 👋, I'm Densie  
+![Green Banner](https://via.placeholder.com/1200x200/3DDC84/FFFFFF?text=Hi+I'm+Densie+👋)
 
 💻 Full-stack developer in training  
 🚀 Working with JavaScript, React, Java, Spring Boot & MySQL  
@@ -8,7 +8,7 @@
 ---
 
 ### 🔤 About Me  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=2F81F7&width=600&lines=Full-stack+developer+in+training;Love+of+programming+and+problem+solving;Always+curious+%7C+Always+learning)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=3DDC84&width=600&lines=Full-stack+developer+in+training;Love+of+programming;Always+learning)
 
 ---
 
@@ -21,4 +21,4 @@
 ---
 
 ### 📊 GitHub Stats  
-![Densie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Densie&show_icons=true&theme=tokyonight&hide_border=true)  
+![Densie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Densie&show_icons=true&theme=gruvbox)
