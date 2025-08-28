@@ -16,11 +16,27 @@
 - **Frontend:** JavaScript, HTML,CSS, React  
 - **Backend:** Java, Spring Boot, JPA  
 - **Database:** MySQL, SQLite
-- **Other:** Git, REST APIs, Three-layer architecture  
+- **Other:** Git, REST APIs, Three-layer architecture
+- **Dev Tools:** Git, GitHub, VS Code, IntelliJ, Figma, Canva
 
 ---
 
-### 📊 GitHub Stats  
-![Densie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Densie&show_icons=true&theme=gruvbox)
+🧠 Currently Learning
+
+⚛️ React – building dynamic UIs with components, props & state
+🧪 JavaScript – working with APIs, DOM, events & animations
+🧱 Backend basics – Node.js & MySQL
+☕ Java & Spring Boot
+
+---
+
+🎯 Current Goals
+
+Learn to connect frontend + backend in a smooth way
+Improve my understanding of clean code & architecture
+get more experience during my upcoming LIA internship
+
+---
+🔗 Looking for LIA (internship) and junior roles!
 
 
