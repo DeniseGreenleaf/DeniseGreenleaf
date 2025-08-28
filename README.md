@@ -1,4 +1,4 @@
-![Beskrivning av bilden](greenleaf.jpg)
+![Beskrivning av bilden](greenleaf.jpg/1200x300)
 
 
 💻 Full-stack developer in training  
