@@ -1,4 +1,4 @@
-![Green Banner](greenleaf.jpg/1200x300/003E00/FFFFFF?text=Hi+I'm+Densie+%F0%9F%91%8B)
+![Beskrivning av bilden](greenleaf.jpg)
 
 
 💻 Full-stack developer in training  
